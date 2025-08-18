@@ -23,4 +23,5 @@ RNAseqChef: 遺伝子発現変動を自動的に可視化するRNA-seq統合解�
 - RaNA-seq：RaNA-seqを使ってウェブブラウザ上でRNA-seqデータを解析する
 - Degust
 - TCC-GUI：TCC-GUI を使って RNA-seq データの解析をブラウザで行う
-- BioJupies：BioJupiesを使ってウェブブラウザ上でRNA-seqデータ解析を行う
+- BioJupies
+- - https://www.youtube.com/watch?v=BjCiMDdIWwk
