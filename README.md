@@ -18,10 +18,12 @@ iDEPを使ってウェブブラウザ上でRNA-seqデータ解析を行う
 ブラウザ上でRNA-seqデータを解析する @ AJACSオンライン14
 【iDEPの使い方】iDEPを用いたRNA-Seqのデータ解析 Olvtoolsによるしょぼい仮説
 - RNAseqChef
-RNAseqChef を使って公共データベース上のRNA-seqデータに対して2群間の比較解析を行う
-RNAseqChef: 遺伝子発現変動を自動的に可視化するRNA-seq統合解析ツール @ 日本エピジェネティクス研究会リソースセミナー
-- RaNA-seq：RaNA-seqを使ってウェブブラウザ上でRNA-seqデータを解析する
+- - https://www.youtube.com/watch?v=BI55VfH_qxQ
+- - https://www.youtube.com/watch?v=W4XJc1WAcMU
+- RaNA-seq
+- - https://www.youtube.com/watch?v=tVnGIQvfwIs
 - Degust
-- TCC-GUI：TCC-GUI を使って RNA-seq データの解析をブラウザで行う
+- TCC-GUI
+- - https://www.youtube.com/watch?v=1Pt_zQO1Fh4
 - BioJupies
 - - https://www.youtube.com/watch?v=BjCiMDdIWwk
