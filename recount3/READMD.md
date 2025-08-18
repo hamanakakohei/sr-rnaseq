@@ -14,3 +14,6 @@ https://bioconductor.org/packages/release/bioc/vignettes/recount3/inst/doc/recou
 
 プロジェクトの選び方やDEG解析の準備：
 https://kazumaxneo.hatenablog.com/entry/2022/02/08/024623
+
+get_and_plot_bw.R
+- getTotalMappedで補正している
