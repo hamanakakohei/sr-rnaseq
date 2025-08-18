@@ -18,6 +18,7 @@ library(GenomicRanges)
 args <- commandArgs(trailingOnly = TRUE)
 if (length(args) < 5) {
   stop("Usage: Rscript get_and_plot_bw.R <SRP_ID> <bw_and_plot_dir> <seqnames> <starts> <ends> [bw_overwrite=FALSE]")
+  # 例えば：
   # Rscript ./get_and_plot_bw.R \
   #   SRP10000 \
   #   results \
