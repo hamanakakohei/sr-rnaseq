@@ -9,20 +9,20 @@
 
 自分のデータをウェブブラウザーで解析する
 - iDEP
-- - https://bioinformatics.sdstate.edu/idep/
-- - https://idepsite.wordpress.com/
+  - https://bioinformatics.sdstate.edu/idep/
+  - https://idepsite.wordpress.com/
   - https://zenn.dev/rchiji/books/55a7b6a1777e4d
   - https://biomedicalhacks.com/2020-10-07/idep/
   - https://www.youtube.com/watch?v=IiHlJ2d661s&t=4063s
   - https://www.youtube.com/watch?v=Hl4zJAMl8Y0
   - https://olvtools.com/documents/idep
 - RNAseqChef
-- - https://www.youtube.com/watch?v=BI55VfH_qxQ
-- - https://www.youtube.com/watch?v=W4XJc1WAcMU
+  - https://www.youtube.com/watch?v=BI55VfH_qxQ
+  - https://www.youtube.com/watch?v=W4XJc1WAcMU
 - RaNA-seq
-- - https://www.youtube.com/watch?v=tVnGIQvfwIs
+  - https://www.youtube.com/watch?v=tVnGIQvfwIs
 - Degust
 - TCC-GUI
-- - https://www.youtube.com/watch?v=1Pt_zQO1Fh4
+  - https://www.youtube.com/watch?v=1Pt_zQO1Fh4
 - BioJupies
-- - https://www.youtube.com/watch?v=BjCiMDdIWwk
+  - https://www.youtube.com/watch?v=BjCiMDdIWwk
