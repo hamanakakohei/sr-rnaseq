@@ -2,7 +2,8 @@
 
 公共データの再解析DB
 - GREIN (GEO RNA-seq Experiments Interactive Navigator)
-- - iLINCSに飛べて様々な下流解析ができる
+ - https://kazumaxneo.hatenablog.com/entry/2019/09/03/053558
+ - iLINCSに飛べて様々な下流解析ができる
 - ARCHS4
 - recount3
 - BioJupies
