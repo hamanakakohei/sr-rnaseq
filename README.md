@@ -5,7 +5,7 @@
 - ARCHS4
 - recount3
 - BioJupies
-- Digital Expression Explorer 2 (DEE2)
+- DEE2 (Digital Expression Explorer)
 
 自分のデータをウェブブラウザーで解析する
 - iDEP
