@@ -1,7 +1,7 @@
 # sr-rnaseq
 
 公共データの再解析DB
-- GREIN
+- GREIN (GEO RNA-seq Experiments Interactive Navigator)
 - ARCHS4
 - recount3
 - BioJupies
