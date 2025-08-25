@@ -16,4 +16,5 @@ https://bioconductor.org/packages/release/bioc/vignettes/recount3/inst/doc/recou
 https://kazumaxneo.hatenablog.com/entry/2022/02/08/024623
 
 get_and_plot_bw.R
+- bigwigをダウンロードして可視化する
 - getTotalMappedで補正している
