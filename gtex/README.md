@@ -1,8 +1,8 @@
 # gtex
 
-GTExワークフローを動かすスクリプトやコンフィグファイル。
+GTExワークフローをNIGで動かすための色々なファイル。
 
-元のファイル：https://github.com/broadinstitute/gtex-pipeline/tree/master/rnaseq
+元の：https://github.com/broadinstitute/gtex-pipeline/tree/master/rnaseq
 
 NIGで動かすために適宜編集している：
 - クラウド用の引数などをコメントアウト
