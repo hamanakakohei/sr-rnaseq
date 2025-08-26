@@ -31,9 +31,9 @@ task rsem_reference {
         sge_queue: "${sge_queue}"
     }
 
-    meta {
-        author: "Francois Aguet"
-    }
+    #meta {
+    #    author: "Francois Aguet"
+    #}
 }
 
 
