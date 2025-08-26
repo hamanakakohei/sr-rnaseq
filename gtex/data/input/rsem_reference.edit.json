@@ -1,0 +1,8 @@
+{
+  "rsem_reference_workflow.rsem_reference.sge_queue": "epyc",
+  "rsem_reference_workflow.rsem_reference.num_threads": 8,
+  "rsem_reference_workflow.rsem_reference.memory": 8,
+  "rsem_reference_workflow.rsem_reference.prefix": "rsem_reference",
+  "rsem_reference_workflow.rsem_reference.reference_fasta": "references-Homo_sapiens_assembly38_noALT_noHLA_noDecoy.fasta",
+  "rsem_reference_workflow.rsem_reference.annotation_gtf": ""
+}
