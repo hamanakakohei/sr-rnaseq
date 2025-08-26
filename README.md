@@ -28,3 +28,8 @@
   - https://www.youtube.com/watch?v=1Pt_zQO1Fh4
 - BioJupies
   - https://www.youtube.com/watch?v=BjCiMDdIWwk
+
+自分のデータをオンプレで解析する
+- nf-core/rnaseqワークフロー
+- GTExワークフロー
+- ENCODEワークフロー
