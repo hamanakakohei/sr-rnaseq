@@ -1,0 +1,7 @@
+{
+  "final_workflow_outputs_dir": "runs",
+  "workflow_log_dir": "logs",
+  "call_caching": {
+    "enabled": true
+  }
+}
