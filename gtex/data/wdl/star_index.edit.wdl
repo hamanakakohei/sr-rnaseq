@@ -45,9 +45,9 @@ task star_index {
         sge_queue: "${sge_queue}"
     }
 
-    meta {
-        author: "Francois Aguet"
-    }
+    #meta {
+    #    author: "Francois Aguet"
+    #}
 }
 
 
