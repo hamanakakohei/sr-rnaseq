@@ -1,0 +1,9 @@
+{
+  "star_index_workflow.star_index_task.sge_queue": "queue_name", # e.g., epyc, medium, rome
+  "star_index_workflow.star_index_task.num_threads": 8,
+  "star_index_workflow.star_index_task.memory": 10,
+  "star_index_workflow.star_index_task.prefix": "star_index_oh149_v47",
+  "star_index_workflow.star_index_task.reference_fasta": "<REFERENCE_FASTA>", # e.g., /path/to/Homo_sapiens_assembly38.fasta
+  "star_index_workflow.star_index_task.annotation_gtf": "<ANNOTATION_GTF>",   # e.g., /path/to/gencode.v47.gtf
+  "star_index_workflow.star_index_task.overhang": 149
+}
