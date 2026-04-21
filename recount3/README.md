@@ -18,3 +18,12 @@ https://kazumaxneo.hatenablog.com/entry/2022/02/08/024623
 get_and_plot_bw.R
 - bigwigをダウンロードして可視化する
 - getTotalMappedで補正している
+
+
+human_projectsの列の説明：
+- project："<DRP or SRP or ERP>xxx"ならsraのデータ？gtexやtcgaの場合ここに30種くらいの組織名、この列でデータが一意に決まる
+- organism："human"のみ
+- file_source；"<gtex or sra or tcga>"
+- project_home："data_sources/<gtex or sra or tcga>"
+- project_type："data_sources"のみ
+- n_samples：サンプル数のみ
