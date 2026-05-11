@@ -250,3 +250,11 @@ while read ENCFF; do
                 --list $IDS_OI \
                 --out results/07/${ENCFF}.TotalSignal.txt
 done < <(tail -n+155 results/05/encsr_mins_plus_bw.repaired.txt | awk '{print $2; print $3}')
+
+
+# 8
+scripts/build_expression_matrix.py \
+        --expr-dir results/07/ \
+        --mapping results/05/encsr_mins_plus_bw.repaired.txt \
+        --summary results/03/summary.txt \
+        --output results/08/expression_matrix.tsv
