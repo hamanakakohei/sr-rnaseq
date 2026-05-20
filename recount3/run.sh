@@ -53,4 +53,11 @@ META=inputs/recount3_selection_2026-05-11_13_55_57.215489.csv
     --output merged_results.tsv
 
 
+# 3
+./scripts/summarize_by_tissue.py \
+    --merged    merged_results.tsv \
+    --gene_ids  $GENE_IDS \
+    --out_gtex  gtex_stats.tsv \
+    --out_tcga  tcga_stats.tsv
+
 
