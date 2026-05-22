@@ -1,8 +1,11 @@
+#!/usr/bin/env python3
 """
 Build expression matrix:
 - Rows: RNA-seq experiments (ENCSR) with metadata
 - Columns: gene_id x strand, ordered as gene1_plus, gene1_minus, gene2_plus, gene2_minus, ...
 - Values: total_signal from bigWig expression files
+
+注意：対象の遺伝子リストは最初のENCFFファイル内の遺伝子を使っているので、それが変だと全て変になる
 """
 import argparse
 import pandas as pd
