@@ -11,9 +11,9 @@ eval "$(conda shell.bash hook)"
 conda activate misc_20250301
 
 
-GTF=inputs/gtf
-IDS_OI=inputs/gene_ids_oi.list
-TSS_MARGIN=10
+GTF=$1
+IDS_OI=$2
+TSS_MARGIN=$3
 
 mkdir -p results_${TSS_MARGIN}/07/
 
